@@ -35,6 +35,7 @@ To design and simulate the CMOS inverter and observe the DC and transient respon
 4.	This is a table of components for building the inverter schematic.
 5.	After entering components, click cancel in the add instance form or press ESC with your cursor in the schematic window.
 
+
 ![329845465-ff2e4de9-cd56-4227-8ce4-c9887921b4f2](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/38bcb6ad-d305-4e64-90fc-debb1e85f1ff)
 
 **Adding pins to schematic:**
@@ -64,6 +65,7 @@ Creating the inverter test cell view:
 6.	Click the wire (narrow) icon and wire your schematic.
 7.	Click create wire name or press c to name the i/p (vsin) and output wires as in below schematic.
 8.	Click on the check and save icon to save the design.
+
  
 ![329845717-4bf6bbe3-c876-45b8-8d0c-681a2591aa43](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/eab3accd-90d9-4079-925a-8b130d9393be)
 
@@ -100,7 +102,9 @@ f.	Select the enable button and click apply and then click ok.
 
 1.	Execute the simulation Netlist and run in the simulation window to start the simulation on the icon. This will create the netlist as well as run the simulation.
 2.	When the simulation finishes the transient and DC plots automatically will be popped up along with netlist.
+
  ![329919607-8f23fb7a-a50c-494c-ad5b-769714302e05](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/3ccc10fa-b551-46ad-b30c-53bbe09fab88)
+
 
 ![329919658-9275159c-4a41-4293-b515-5a81cb48a8bb](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/59090cbd-2cff-47eb-bcde-2cbea8b73762)
 
@@ -110,14 +114,17 @@ f.	Select the enable button and click apply and then click ok.
 
 **NAND SCHEMATIC**
 
+
 ![329919725-6b7fa53b-da51-464c-9d31-bc1205519f42](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/e8139472-4fe0-449b-9751-7496cf6fc66c)
 
 
 **NAND TEST CELL VIEW**
+
 ![329919780-906e4114-3b94-49ba-a5b9-f5ee8b8eb053](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/3a8bfff8-f658-4143-b39d-acf28bc1271a)
 
  
 **NAND SIMULATION WITH SPECTRA**
+
 ![329919880-2609fa42-f131-44ff-b3e0-86b1bc557853](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/3d4b40fc-3d5b-49f7-8ea2-be3536c1ee65)
 
 
@@ -125,10 +132,12 @@ f.	Select the enable button and click apply and then click ok.
 **CMOS NOR GATE**
 
 **NOR SCHEMATIC**
+
 ![329845885-3ec2637c-b359-430d-9642-10b92ebfdedb](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/f25ad936-7618-462f-8e12-7ad80d3d2a65)
 
 
 **NOR TEST CELL VIEW**
+
 ![329845904-cd64ffe6-7ddb-47e3-8f66-256e15c62e45](https://github.com/magesh0123/VLSI-LAB-EXP-6/assets/162102402/c36fc8a9-49a0-43c5-a866-8757a278e44f)
 
 
